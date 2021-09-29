@@ -44,6 +44,9 @@
     ?>
 </body>
 <style>
+    body{
+        background-color: lightyellow;
+    }
     table {
         position: absolute;
         left: 50%;
@@ -51,6 +54,7 @@
         top: 50%;
         margin-top: -100px;
         border: 1px solid #000;
+        background-color: grey;
     }
 
     th,
@@ -60,6 +64,7 @@
         border: 1px solid #000;
         border-spacing: 0;
         font-size: 30;
+        background-color: lightskyblue;
     }
 
     th {
