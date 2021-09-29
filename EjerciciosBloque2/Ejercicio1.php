@@ -45,6 +45,11 @@
 </body>
 <style>
     table {
+        position: absolute;
+        left: 50%;
+        margin-left: -250px;
+        top: 50%;
+        margin-top: -100px;
         border: 1px solid #000;
     }
 
