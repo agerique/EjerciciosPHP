@@ -47,7 +47,7 @@
     table {
         position: absolute;
         left: 50%;
-        margin-left: -250px;
+        margin-left: -350px;
         top: 50%;
         margin-top: -100px;
         border: 1px solid #000;
@@ -56,9 +56,16 @@
     th,
     td {
         text-align: center;
-        vertical-align: top;
+        vertical-align: center;
         border: 1px solid #000;
         border-spacing: 0;
+        font-size: 30;
+    }
+
+    th {
+        text-align: left;
+        font-weight: bold;
+        font-size: 30;
     }
 </style>
 
